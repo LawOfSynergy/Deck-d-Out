@@ -1,0 +1,141 @@
+Act of Aggression	New Phyrexia	025
+Act of Treason	M11	015
+Ajani's Mantra	M11	025
+Arc Lightning	Planechase	049
+Arc Runner	M11	015
+Armored Cancrix	M11	015
+Artillerize	New Phyrexia	015
+Assault Griffin	M12	015
+Auramancer	M12	015
+Awakener Druid	M11	025
+Azure Mage	M12	025
+Balefire Liege	Planechase	799
+Battlegate Mimic	Planechase	015
+Benalish Veteran	M12	015
+Beseech the Queen	Planechase	199
+Bloodcrazed Goblin	M11	015
+Bonebreaker Giant	M12	015
+Boros Garrison	Planechase	099
+Boros Guildmage	Planechase	049
+Boros Signet	Planechase	049
+Boros Swiftblade	Planechase	049
+Bountiful Harvest	M12	015
+Brutalizer Exarch	New Phyrexia	149
+Bull Cerodon	Planechase	049
+Cadaverous Knight	Planechase	025
+Canyon Minotaur	M11	015
+Captain's Maneuver	Planechase	025
+Cathedral Membrane	New Phyrexia	025
+Cerodon Yearling	Planechase	025
+Combust	M11	049
+Cone of Flame	Planechase	025
+Congregate	Planechase	025
+Corpse Harvester	Planechase	075
+Cultivate	M11	149
+Dark Favor	M12	015
+Deathmark	M11	025
+Defensive Stance	New Phyrexia	015
+Disentomb	M11	015
+Doom Blade	M11	025
+Double Cleave	Planechase	039
+Dregscape Zombie	Planechase	015
+Duress	M11	025
+Earth Servant	M11	025
+Elite Vanguard	M11	025
+Ember Hauler	M11	025
+Festering Goblin	Planechase	019
+Flametongue Kavu	Planechase	049
+Fling	M11	015
+Furnace of Rath	Planechase	149
+Garruk's   Companion	M11	025
+Glistener Elf	New Phyrexia	049
+Glory 0f Warfare	Planechase	099
+Goblin Arsonist	M12	015
+Goblin Bangchuckers	M12	025
+Goblin Offensive	Planechase	075
+Goblin Piker	M11	015
+Goblin War Paint	M12	015
+Goldenglow Moth	M11	015
+Grave Pact	Planechase	799
+Gravedigger	Planechase	015
+Gut Shot	New Phyrexia	049
+Hearthfire Hobgoblin	Planechase	039
+Hideous End	Planechase	015
+Holy Strength	M11	015
+Howling Banshee	M11	025
+Impaler Shrike	New Phyrexia	015
+Incite	M11	015
+Infantry Veteran	M11	015
+Inquisitor Exarch	New Phyrexia	025
+Inspired Charge	M11	015
+Insurrection	Planechase	099
+jace's Erasure	M11	025
+jace's Ingenuity	M11	025
+Juggernaut	M11	025
+Keldon Champion	Planechase	039
+Knight Exemplar	M11	249
+Kor Sanctifiers	Planechase	015
+Lava Axe	M11	015
+Leyline of Punishment	M11	099
+Lightning Bolt	M11	099
+Lightning Helix	Planechase	299
+Liliana's Caress	M11	299
+Liliana's Specter	M11	025
+Marrow Shards	New Phyrexia	025
+Menacing Ogre	Planechase	049
+Merfolk Spy	M11	015
+Mitotic Slime	M11	049
+Mortis Dogs	New Phyrexia	015
+Mutagenic Growth	New Phyrexia	025
+Necrotic Plague	M11	049
+Nefashu	Planechase	049
+Nether Horror	M11	015
+Noxious Ghoul	Planechase	089
+Oblivion Ring	Planechase	025
+Ogre Resister	Mirrodin Besieged	015
+Orim's Thunder	Planechase	025
+Pacifism	M11	015
+Phantasmal Bear	M12	025
+Phantasmal Dragon	M12	025
+Phyrexian Arena	Planechase	299
+Phyrexian Metamorph	New Phyrexia	254
+Phyrexian Rebirth	Mirrodin Besieged	049
+Pith Driller	New Phyrexia	015
+Plummet	M11	015
+Porcelain Legionnaire	New Phyrexia	015
+Preordain	M11	099
+Pride Guardian	M12	025
+Prison Term	Planechase	049
+Profane Command	Planechase	099
+Pyretic Ritual	M11	049
+Rage Extractor	New Phyrexia	025
+Reckless Charge	Planechase	019
+Relic of Progenitus	Planechase	125
+Roc Egg	M11	025
+Rolling Thunder	Planechase	025
+Rorix Bladewing	Planechase	075
+Rotting Rats	Planechase	025
+Shattered Angel	New Phyrexia	025
+Shepherd of Rot	Planechase	025
+Slash Panther	New Phyrexia	015
+Sleep	M11	049
+Soul Warden	Planechase	049
+Soulless One	Planechase	125
+Stabbing Pain	M11	015
+Syphon Soul	Planechase	015
+Terramorphic Expanse	Planechase	025
+Thran Golem	M12	025
+Time Reversal	M11	055
+Tireless Missionaries	M11	015
+Undead Warchief	Planechase	212
+Unsummon	M12	012
+Vengeful Pharaoh	M12	075
+Victorious Destruction	New Phyrexia	015
+Viscera Seer	M11	049
+Vulshok Berserker	M11	015
+Warlord's Axe	M11	025
+Whispersilk Cloak	M11	025
+Whitesun's Passage	Scars of Mirrodin	015
+Withered Wretch	Planechase	049
+Zombie Goliath	M10	015
+Unrecognized	n/a	0
